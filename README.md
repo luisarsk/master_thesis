@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 ## Domino
 
-`domino` muss lokal installiert werden.
+`domino` muss lokal installiert werden: https://github.com/joshdorrington/domino/

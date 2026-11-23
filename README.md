@@ -28,17 +28,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Python-Requirements
+## Domino
 
-Die installierten Pakete sind identisch zu `pw-work-new`:
-
-- wheel
-- numpy
-- pandas
-- tqdm
-- gcsfs
-
-## Hinweise
-
-- Einige Notebooks sind groß; für Versionsverwaltung ggf. Git LFS verwenden.
-- Je nach Script können zusätzliche System-Tools oder Zugangsdaten für Datenquellen nötig sein.
+`domino` muss lokal installiert werden.
